@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999959773780",
+    "project_id": "aquaalert-90e88",
+    "storage_bucket": "aquaalert-90e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999959773780:android:f2a12d84a08a9ed5c423c1",
+        "android_client_info": {
+          "package_name": "com.example.flutterui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDox_7-VNz8ybDFhwToYY86hCvmVFdz1xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
